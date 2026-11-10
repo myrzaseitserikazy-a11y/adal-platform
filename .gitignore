@@ -1,8 +1,10 @@
 backend/.venv/
 backend/__pycache__/
 backend/adal.db
+backend/server*.log
 frontend/node_modules/
 frontend/dist/
+frontend/server*.log
 .pnpm-store/
 .env
 .pnpm-store/

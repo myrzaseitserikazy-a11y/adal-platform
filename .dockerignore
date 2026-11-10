@@ -1,0 +1,9 @@
+.git
+.pnpm-store
+**/node_modules
+**/dist
+**/__pycache__
+**/*.db
+**/server.log
+**/server-error.log
+.env
